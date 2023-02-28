@@ -1,0 +1,56 @@
+.backroung{
+    width: 500px;
+    background: url(https://st2.depositphotos.com/3935465/8449/i/950/depositphotos_84492048-stock-photo-fresh-dark-fruits-and-berries.jpg);
+    background-position: center;
+    background-size: cover;
+    height:500px;
+    margin-top: -34px;
+    margin-left: 150px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: -1px;
+    
+  
+}
+.naveen{
+    width: 250px;
+    height: 150px;
+    border-radius: 12px;
+}
+
+.s2{
+    padding: 1px;
+    position:relative;
+    background: url(https://images.unsplash.com/photo-1591287083773-9a52ba8184a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60);
+}
+
+.increse{
+    color: cornflowerblue;
+    background-color: darkgrey;
+    border-radius: 10px;
+    font-size: 20px;
+}   
+
+.decrese{
+    color: rgb(230, 13, 165);
+    background-color: darkgrey;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.decrese:hover{
+    background-color: rgba(105, 105, 105, 0.807);
+}
+
+.increse:hover{
+    background-color: rgba(105, 105, 105, 0.807);
+}
+
+.image{
+    margin-left: 100px;
+}
+
+.fruit{
+    margin-left: 160px;
+}
